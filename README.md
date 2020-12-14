@@ -12,7 +12,7 @@ SCY年会。
 `log` 目录记录在Android开发的过程中，一些思路、问题、猜想和测试过程及结果。  
 
 ## project
-project内记录Android的开发过程
+project内记录Android的组会讨论
 
 ## tools
 下载了一些用于Android开发的工具
