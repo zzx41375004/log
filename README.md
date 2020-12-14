@@ -8,8 +8,9 @@ SCY总监说会在下周二（12月15日）再送一台有权限的设备。
 星期三有望再去公司。  
 SCY年会。  
 
-## rootlog
-`rootlog` 目录下是Android root的一些操作、问题记录。
+## log
+`log` 目录记录在Android开发的过程中，一些思路、问题、猜想和测试过程及结果。  
+
 ## project
 project内记录Android的开发过程
 
