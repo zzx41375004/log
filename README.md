@@ -7,6 +7,8 @@ SCY年会。
 
 ## rootlog
 `rootlog` 目录下是Android root的一些操作、问题记录。
+## project
+project内记录Android的开发过程
 
 ## 
 开始做开发以来，其意义更多在于团队协作去解决问题。而至于今乎，团队交流之少，竟至相互多有不通。  
